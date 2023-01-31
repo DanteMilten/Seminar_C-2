@@ -1,0 +1,15 @@
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.csproj.AssemblyReference.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.AssemblyInfoInputs.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.AssemblyInfo.cs
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.csproj.CoreCompileInputs.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\bin\Debug\net6.0\dopol.zadanie.exe
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\bin\Debug\net6.0\dopol.zadanie.deps.json
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\bin\Debug\net6.0\dopol.zadanie.runtimeconfig.json
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\bin\Debug\net6.0\dopol.zadanie.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\bin\Debug\net6.0\dopol.zadanie.pdb
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\refint\dopol.zadanie.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.pdb
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\dopol.zadanie.genruntimeconfig.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\dopol.zadanie\obj\Debug\net6.0\ref\dopol.zadanie.dll
