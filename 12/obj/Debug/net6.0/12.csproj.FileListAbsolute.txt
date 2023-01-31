@@ -1,0 +1,15 @@
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\bin\Debug\net6.0\12.exe
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\bin\Debug\net6.0\12.deps.json
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\bin\Debug\net6.0\12.runtimeconfig.json
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\bin\Debug\net6.0\12.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\bin\Debug\net6.0\12.pdb
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.csproj.AssemblyReference.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.AssemblyInfoInputs.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.AssemblyInfo.cs
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.csproj.CoreCompileInputs.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\refint\12.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.pdb
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\12.genruntimeconfig.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#2\12\obj\Debug\net6.0\ref\12.dll
